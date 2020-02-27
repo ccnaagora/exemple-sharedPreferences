@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">exemple sharedPreferences</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_deuxieme_page">deuxieme page</string>
+</resources>
